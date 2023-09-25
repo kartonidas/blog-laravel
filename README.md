@@ -1,6 +1,6 @@
 <h1>Laravel - blog</h1>
 
-<h2>Instalacja<h2>
+<h2>Instalacja</h2>
 <ul>
     <li>composer install</li>
     <li>cp .env.example .env</li>
